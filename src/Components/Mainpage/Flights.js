@@ -33,7 +33,7 @@ setfirst(my20)
 const showairline=(ele)=>{
     dispatch( getAir(ele))
     console.log("get aie action")
-    navigate(`/oneairline/${ele.id}`)
+    navigate(`/oneairline/${ele?.id}`)
 }
 
 
