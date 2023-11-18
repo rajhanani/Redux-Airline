@@ -1,0 +1,57 @@
+/* .table table td{
+    border: 1px solid black;
+    padding: 10px;
+    margin: auto;
+    background-color:#dbf2fc;
+    font-size: 20px;
+    text-align: end;
+    color: rgb(18, 17, 17);  
+} */
+
+.table table th{
+    border: 1px solid black;
+    padding: 10px;
+    margin: auto;
+    background-color:#dbf2fc;
+    font-size: 20px;
+    text-align: end;
+    color: rgb(18, 17, 17);
+    
+    
+}
+
+.table table td{
+    border: 1px solid black;
+    padding: 10px;
+    margin: auto;
+    background-color:#dbf2fc;
+    font-size: 20px;
+    color: rgb(18, 17, 17); 
+}
+.table table{
+    width: 485px;
+}
+
+.table table, td,tr{
+    margin: auto;
+    padding: 10px 0px;
+    
+}
+.table td{
+    padding: 10px 0px;
+}
+
+.book_title h2{
+    text-align: center;
+    color: rgb(80, 77, 77);
+    font-size: 30px;
+}
+
+.table{
+    background-color: aliceblue;
+    padding: 15px;
+    width: 40%;
+    margin: auto;
+    box-shadow: 10px 10px 8px #d1cfcf;
+    margin-top: 40px;
+}

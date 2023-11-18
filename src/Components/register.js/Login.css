@@ -1,0 +1,54 @@
+.main_login{
+    background-color:#DF2E2E;
+    width: 550px;
+    margin: 30px auto;
+    padding: 18px;
+    box-shadow: 5px 10px 8px #d1cfcf;
+   
+}
+
+.form_login input{
+    margin: 15px;
+    padding: 15px;
+    width: 80%;
+    border: none;
+    margin-left: 40px;
+    background-color: rgb(243, 237, 237);
+}
+
+.form_login input::placeholder{
+    color: rgb(131, 130, 130);
+    font-size: 15px;
+}
+
+.btn_login{
+    border: none;
+    background-color:rgb(225, 85, 5);
+    color: white;
+    padding: 10px 35px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-left:195px;
+    margin-top: 20px;
+}
+
+.btn_login:hover{
+    background-color:rgb(255, 143, 7);
+}
+
+.sign_login{
+margin: auto;
+/* background-color: rgb(205, 86, 50); */
+width: 20%;
+text-align: center;
+color: white;
+padding: 0px 8px;
+border-radius: 10px;
+}
+
+.main_div{
+    /* background-image: url("https://cdn.vox-cdn.com/thumbor/M5zU9CEPioNW8zwspIo3WMVKEQE=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/70405819/1237645376.0.jpg");
+    background-repeat: no-repeat;
+    background-size:cover; */
+    padding-top: 50px;
+}

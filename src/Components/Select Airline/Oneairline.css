@@ -1,0 +1,90 @@
+.onemain{
+    /* display: flex;
+    justify-content: space-around; */
+    /* background-color: rgb(255, 124, 43); */
+    background-color:#EF9F9F;
+    width: 550px; 
+    color: black;
+    box-shadow: 5px 10px 8px #d1cfcf;
+    margin: auto;
+    padding: 10px 0px 25px 0px;
+}
+
+.onemain_2_head p{
+    font-size: 20px;
+}
+
+.onemain_1{
+    /* background-color: #f05567; */
+    width: 50%;
+    margin: 10px auto 0px auto;
+    border-radius: 6px; 
+}
+
+.onemain_1_logo{
+    margin:0px 30px;
+    width: 320px;
+     
+}
+
+.onemain_1_logo img{
+    width: 100%;
+    height: auto;
+}
+
+ .onemain_1_slogan p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+
+ }
+
+ .onemain_2_name h2{
+    text-align: center;
+ }
+
+ .onemain_2_country h3{
+    text-align: center;
+ }
+
+ .onemain_2_head p{
+    text-align: center;
+    font-weight: bold;
+ }
+
+ .onemain_2_head a{
+    color: white;
+    text-align: center;
+    margin: auto;
+    text-decoration: none;
+ }
+
+ .onemain_2{
+    background-color: #f05567; 
+    width: 65%;
+    margin: 10px auto 0px auto;
+    border-radius: 6px;
+    color: #E7F6F2;
+    padding: 10px;
+   
+ }
+
+ .back_home{
+ margin-left: 230px;
+ margin-top: 18px;
+
+ }
+
+ .back_home button{
+    padding: 13px;
+    background-color: #df1811;
+    color: white;
+    border: none;
+    font-size: 15px;
+    border-radius: 5px;
+    box-shadow: 5px 10px 8px #e6a5a5;
+ }
+
+ .back_home button:hover{
+    background-color: #b6140e; 
+ }

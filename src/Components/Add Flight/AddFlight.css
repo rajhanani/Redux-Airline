@@ -1,0 +1,85 @@
+.add_form{
+    margin: auto;
+    width: 50%;
+    background-color:#bed6de;
+    box-shadow: 15px 15px 15px #fefeff;
+    padding: 20px 0px;
+    border-radius: 18px;   
+}
+
+.journey_details{
+   
+}
+
+
+.add_form input{
+    margin: 5px 0px 5px 30px;
+    padding: 13px;
+    width: 80%;
+    border-bottom: 1px solid black;
+    border-right:none;
+    border-left:none; 
+    border-top:none; 
+    background-color: rgb(255, 252, 252);   
+}
+
+.add_form label{
+    font-size:18px;
+    margin-left: 50px;
+    
+}
+
+.add_btn{
+    background-color: rgb(3, 71, 95);
+    border: none;
+    padding: 14px;
+    color: white;
+    margin-top: 20px;
+    font-size: 16px;
+    margin-left: 300px;
+    border-radius: 4px;
+}
+
+.add_btn:hover{
+    background-color: #036099;
+}
+
+.main_add_form{
+    margin-top: 10px;
+   
+}
+
+#passenger2{
+    border: 1px solid black;
+    margin-top: 25px;
+    width: 80%;
+    margin: auto;
+}
+
+#passenger3{
+    border: 1px solid black;
+    margin-top: 15px;
+    width: 80%;
+    margin: auto;
+   
+}
+
+#numbervalid{
+    color: red;
+    font-size: 18px;
+}
+
+#emailvalid{
+    color: red;
+    font-size: 18px;
+}
+
+/* input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none; 
+    margin: 0; 
+} */
+
+.jk1{
+    display: inline-block;
+}

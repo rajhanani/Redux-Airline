@@ -1,0 +1,50 @@
+.airline_portal{
+    display: flex;
+}
+
+.airline_details{
+    background-color:aliceblue;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-around;
+    width: 450px;
+    box-shadow: 5px 10px 8px #d1cfcf;
+   
+    
+}
+
+
+.airline_logo{
+    width: 270px;
+    padding: 30px 10px;
+    margin-left: 10px;
+    
+}
+
+.airline_logo img{
+    width: 100%;
+    height: auto;
+}
+
+.airline_logo img{
+    width: 100%;
+    height: auto;
+}
+.airline_name{
+    
+    padding: 0px 40px;
+     
+}
+
+.airline_country{
+    padding: 0px 40px;
+}
+
+.airline_head{
+    padding: 0px 40px;
+    font-size: 20px;
+}
+
+.airline_head a{
+    text-decoration:none;
+}
